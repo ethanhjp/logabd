@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("hello world lalallalla.\n");
+	printf("hello master lalallalla.\n");
 	printf("add new line.\n");
 	printf("master.\n");
 
