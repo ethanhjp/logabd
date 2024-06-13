@@ -2,9 +2,9 @@
 
 int main()
 {
-	printf("hello world lalallalla.\n");
+	printf("hello dev1 lalallalla.\n");
 	printf("add new line.\n");
-	printf("master.\n");
+	printf("dev1.\n");
 
 	return 0;
 }
