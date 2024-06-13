@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("hello world.\n");
+	printf("hello world lalallalla.\n");
+	printf("add new line.\n");
 
 	return 0;
 }
